@@ -1,6 +1,6 @@
 # Praktikum11
 
-# Pertemauan 15
+# Pertemuan 15
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/115771479/213110642-f9553a9d-c8b8-409c-8777-b5779b34bce4.png">
 
 # Penjelasan
